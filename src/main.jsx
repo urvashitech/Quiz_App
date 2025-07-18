@@ -8,7 +8,7 @@ createRoot(document.getElementById('root')).render(
   <BrowserRouter  basename="/Quiz_App">
   <StrictMode>
     <App />
-  </StrictMode>,
+  </StrictMode>
   </BrowserRouter>
   
 )
